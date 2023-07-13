@@ -1,2 +1,2 @@
 # cpp_kompakt
-Quellen zu C++ Kompakt von André Willms, Punkt Verlag
+Meine Quellen zu C++ Kompakt von André Willms, dpunkt Verlag, 2015
